@@ -1,1 +1,1 @@
-# Washing-Machine-using-PICSIM-LAB
+# Microcontroller based Washing Machine using PICSIM LAB
