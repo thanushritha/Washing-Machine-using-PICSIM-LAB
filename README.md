@@ -97,8 +97,6 @@ Here are the simulated screens implemented:
 
 - ## 🎓 Learning Outcomes
 
-By working on this simulation, you will gain:
-
 - Practical exposure to finite state machines in embedded design  
 - Hands-on skills in embedded C programming  
 - Knowledge of peripheral interfacing (LCD, keypad, buzzer)  
